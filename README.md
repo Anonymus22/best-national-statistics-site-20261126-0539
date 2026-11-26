@@ -1,8 +1,8 @@
 # NusaStat — Indonesia in Numbers
 
-![National Statistics Site](https://make.fun/badge/best-national-statistics-site-20261126-0539.svg)
-![Rank](https://make.fun/badge/best-national-statistics-site-20261126-0539/Anonymus22/best-national-statistics-site-20261126-0539/rank.svg)
-![Reward](https://make.fun/badge/best-national-statistics-site-20261126-0539/Anonymus22/best-national-statistics-site-20261126-0539/reward.svg)
+[![make.fun · best-national-statistics-site-20261126-0539](https://make.fun/badge/best-national-statistics-site-20261126-0539.svg)](https://make.fun/bounty/best-national-statistics-site-20261126-0539?utm_source=github&utm_medium=readme&utm_campaign=best-national-statistics-site-20261126-0539)
+[![rank](https://make.fun/badge/best-national-statistics-site-20261126-0539/Anonymus22/best-national-statistics-site-20261126-0539/rank.svg)](https://make.fun/bounty/best-national-statistics-site-20261126-0539/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-national-statistics-site-20261126-0539)
+[![reward](https://make.fun/badge/best-national-statistics-site-20261126-0539/Anonymus22/best-national-statistics-site-20261126-0539/reward.svg)](https://make.fun/bounty/best-national-statistics-site-20261126-0539?utm_source=github&utm_medium=readme&utm_campaign=best-national-statistics-site-20261126-0539)
 
 NusaStat is an original national statistics site for **Indonesia**, built for the
 make.fun bounty "Make the best national statistics site". It is plain static
